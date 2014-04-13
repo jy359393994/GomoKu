@@ -21,6 +21,7 @@ import javax.swing.JLayeredPane;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+
 public class GomoKu extends JFrame {
 	
 	ImageIcon background = new ImageIcon(getClass().getResource("background.jpg"));
